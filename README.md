@@ -258,4 +258,4 @@ KR Mangalam University
 
 ## License
 
-These programs are for educational purposes.
+GPL-2.0 license
